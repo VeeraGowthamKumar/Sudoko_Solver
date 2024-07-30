@@ -34,7 +34,8 @@ find_empty(board) - Finds the next empty cell in the board.
 valid(board, num, pos) - Checks if placing a number in a specific position is valid.
 solve_sudoku(board) - Uses a backtracking algorithm to solve the Sudoku puzzle by filling empty cells with valid numbers.
 
-Example
+
+# Example
 Here is an example of a Sudoku puzzle and its solution:
 
 Before Solving:
