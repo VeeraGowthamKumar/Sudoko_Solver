@@ -1,7 +1,7 @@
-#Sudoku Solver
+# Sudoku Solver
 A simple Sudoku solver implemented in Python using a backtracking algorithm. This project provides a straightforward solution for solving 9x9 Sudoku puzzles and includes a formatted board output.
 
-Table of Contents
+# Table of Contents
 Features
 Installation
 Usage
@@ -9,13 +9,13 @@ How It Works
 Example
 
 
-Features
+# Features
 Solves 9x9 Sudoku puzzles.
 Prints the Sudoku board in a readable format before and after solving.
 Uses a backtracking algorithm to find the solution.
 
 
-Usage
+# Usage
 Open the sudoku_solver.py file in your preferred code editor.
 
 Define your Sudoku puzzle in the sudoku_puzzle variable. Ensure that the puzzle is a 9x9 grid with zeros representing empty cells.
@@ -29,7 +29,7 @@ The script will print the board before and after solving.
 
 
 
-How It Works
+# How It Works
 print_board(board) - Formats and prints the Sudoku board.
 find_empty(board) - Finds the next empty cell in the board.
 valid(board, num, pos) - Checks if placing a number in a specific position is valid.
