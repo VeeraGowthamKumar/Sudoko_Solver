@@ -2,11 +2,10 @@
 A simple Sudoku solver implemented in Python using a backtracking algorithm. This project provides a straightforward solution for solving 9x9 Sudoku puzzles and includes a formatted board output.
 
 # Table of Contents
-Features
-Installation
-Usage
-How It Works
-Example
+* Features
+* Usage
+* How It Works
+* Example
 
 
 # Features
