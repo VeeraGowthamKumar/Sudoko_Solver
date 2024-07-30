@@ -1,7 +1,4 @@
-
-Creating a README file for your GitHub project is a great way to provide context and instructions for others who might use or contribute to your project. Here’s a structured README template for your Sudoku solver project:
-
-Sudoku Solver
+#Sudoku Solver
 A simple Sudoku solver implemented in Python using a backtracking algorithm. This project provides a straightforward solution for solving 9x9 Sudoku puzzles and includes a formatted board output.
 
 Table of Contents
